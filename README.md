@@ -31,5 +31,7 @@ Sample recruitment dataset with Candidate ID, Name, Gender, Position, Source, Ap
 * Mobile & desktop layouts included via screenshots
 * PDF export available for portfolio or showcase
 
-  
+## Project ScreenShot 
+![Portfolio Screenshot]("C:\Users\palak\OneDrive\Pictures\Screenshots\Screenshot 2025-11-27 230706.png")
+
 
